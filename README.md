@@ -1,4 +1,4 @@
-基于yolox和lprnet实现的车牌识别，同时可在atlas200dk上运行
+基于yolox和lprnet实现的车牌识别，同时可在atlas 200dk上运行
 
 纯ai，可在colab上复现，但在colab上复现不太可能（乱到我现在就忘了）
 
