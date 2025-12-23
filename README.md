@@ -1,0 +1,1 @@
+基于yolox和lprnet实现的车牌识别，同时可在atlas200dk上运行
